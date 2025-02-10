@@ -1255,8 +1255,8 @@
 		(layer "Edge.Cuts")
 		(uuid "e135b2b5-05b6-4369-b47f-53cfc9319f07")
 	)
-	(gr_text "github.com/sarweiler/a2k6-cart"
-		(at 132.842 93.472 90)
+	(gr_text "github.com/kevinl95/atari2600-selecta2600-adapter"
+		(at 136 92.5 90)
 		(layer "B.SilkS")
 		(uuid "be504de2-941c-4738-882f-e243434d2f68")
 		(effects
@@ -1267,8 +1267,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "A2k6 Cartridge"
-		(at 133.096 92.964 90)
+	(gr_text "Selecta Adapter"
+		(at 133.5 94 90)
 		(layer "F.SilkS")
 		(uuid "cd24a526-ad6a-42de-a3cb-30599d60c0c3")
 		(effects

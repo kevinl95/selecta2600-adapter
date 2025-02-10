@@ -1,6 +1,6 @@
-# Selectra Ribbon Cable Adapter
+# Selecta Ribbon Cable Adapter
 
-A cartridge PCB for the Atari 2600 for connecting to the Selectra multi-game selector via a ribbon cable.
+A cartridge PCB for the Atari 2600 for connecting to the Selecta multi-game selector via a ribbon cable.
 
 ![Kicad screenshot of the pcb front](images/screenshot.png)
 
